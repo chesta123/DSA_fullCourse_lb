@@ -23,7 +23,7 @@ int main()
 
 
 
-//                                                                        2.) VECTOR
+//                                                                    2.) VECTOR
 
 #include<iostream>
 #include<vector>

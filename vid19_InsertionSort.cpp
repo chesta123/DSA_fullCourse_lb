@@ -13,7 +13,7 @@ int main(){
             if (array[j]>temp)
             {
                 // shifting of elements in fwd direction 
-                array[j+1]=array[j];
+                array[i]=array[j];
             }
             else{
                 break;
